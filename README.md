@@ -1,6 +1,6 @@
-- 👋  Hi, I’m @jaseytech
-- 👀  I’m a small business owner and developer
-- 🌱  I’m currently learning about business for my MBA
+- 👋  Hi, I’m Jamie, but you can call me JC!
+- 👀  I’m a small business owner and Salesforce developer
+- 🌱  I’m currently enrolled in my MBA
 - 💞️  I’m looking to collaborate on anything and everything!
 - 📫  Message me here: jcartin@ykw.solutions
 
