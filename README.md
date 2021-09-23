@@ -1,6 +1,6 @@
 - 👋  Hi, I’m Jamie, but you can call me JC!
-- 👀  I’m a small business owner and Salesforce developer
-- 🌱  I’m currently enrolled in my MBA
+- 👀  I’m a small business owner and software developer
+- 🌱  I specialize in Salesforce and iOS development
 - 💞️  I’m looking to collaborate on anything and everything!
 - 📫  Message me here: jcartin@ykw.solutions
 
